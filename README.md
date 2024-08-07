@@ -26,21 +26,20 @@ The Cardiovascular disease remains a pervasive global health challenge, with sig
 
 ### Dataset Description
 
-The dataset is been taken from **Kaggle** for the research paper. And the dataset incudes following attributes within it.
-
-•	**id**
-•	**age**
-•	gender
-•	height
-•	weight
-•	ap_hi
-•	ap_lo
-•	cholesterol
-•	gluc
-•	smoke
-•	alco
-•	active
-•	cardio
+The dataset is been taken from **Kaggle** for the research paper. And the dataset incudes following attributes within it.</br>
+- **id** </br>
+- **age** </br>
+- **gender** </br>
+- **height** </br>
+- **weight** </br>
+- **ap_hi** </br>
+- **ap_lo** </br>
+- **cholesterol** </br>
+- **gluc** </br>
+- **smoke** </br>
+- **alco** </br>
+- **active** </br>
+- **cardio** </br>
 
 ### Feature Engineering and Data Pre-processing
     # Handling Missing values
@@ -51,6 +50,8 @@ The dataset is been taken from **Kaggle** for the research paper. And the datase
 ### Model Implementation
 ### Model Evaluation
 ### Results
+![Screenshot 2024-08-05 194727](https://github.com/user-attachments/assets/52d0a16b-fad2-4b0a-883f-a439e4408d60)
+
 ### Conclusion
 ### Challenges Faced
 ### Libraries Used
