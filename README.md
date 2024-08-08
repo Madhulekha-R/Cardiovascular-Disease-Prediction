@@ -100,10 +100,18 @@ On implementing various machine learning algorithms over the dataset, ended up w
 
 The blue line represents the training accuracy and red line represents the test accuracy. Thus, it is concluded that the model is overfitted where the model excels in its performance on the training data but lacks the ability to generalize effectively to novel, unseen data.
 
-### Libraries Used
+## LIBRARIES USED:</br>
 
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+### For handling and manipulating data:
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
 
+### For Visualization
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python)](https://matplotlib.org/)
 
-### Contact
+### For Hypothesis testing, Pre-processing and Model training
+[![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge&logo=python)](https://www.statsmodels.org/)
+[![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/)
 
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhulekha-r-4b981b256/)
