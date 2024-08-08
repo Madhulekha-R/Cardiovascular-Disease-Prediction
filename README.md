@@ -4,8 +4,8 @@
 
 ## TABLE OF CONTENTS
 
-- [ABOUT THE PROJECT](#about-the-project)
-- [DATASET DESCRIPTION](#dataset-description)
+- [About the Project](#about-the-project)
+- [Dataset Description](#dataset-description)
 - [Model Implementation](#model-implementation)
 - [Model Evaluation](#model-evaluation)
 - [Results](#results)
@@ -102,7 +102,8 @@ The blue line represents the training accuracy and red line represents the test 
 
 ### Libraries Used
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
 
 ### Contact
 
